@@ -1,0 +1,7 @@
+name: Bounty
+version: '${project.version}'
+main: fns.bounty.Bounty
+api-version: '1.20'
+commands:
+  bounty:
+    description: "open bounties menu"
